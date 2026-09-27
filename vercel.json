@@ -1,0 +1,13 @@
+{
+  "redirects": [
+    { "source": "/g/:slug*", "destination": "https://guia.ffstay.com.br/g/:slug*", "permanent": false },
+    { "source": "/login", "destination": "https://guia.ffstay.com.br/login", "permanent": false },
+    { "source": "/cadastro", "destination": "https://guia.ffstay.com.br/cadastro", "permanent": false },
+    { "source": "/esqueci-senha", "destination": "https://guia.ffstay.com.br/esqueci-senha", "permanent": false },
+    { "source": "/redefinir-senha", "destination": "https://guia.ffstay.com.br/redefinir-senha", "permanent": false },
+    { "source": "/privacidade", "destination": "https://guia.ffstay.com.br/privacidade", "permanent": false },
+    { "source": "/termos", "destination": "https://guia.ffstay.com.br/termos", "permanent": false },
+    { "source": "/admin", "destination": "https://guia.ffstay.com.br/admin", "permanent": false },
+    { "source": "/admin/:path*", "destination": "https://guia.ffstay.com.br/admin/:path*", "permanent": false }
+  ]
+}
